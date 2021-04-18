@@ -1,6 +1,5 @@
 <h1 align="center">Alejandro Buitrago</h1>
 
-![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
 ¡Hola! Soy Alejandro Buitrago.
 
@@ -13,4 +12,5 @@ Me considero un apasionado de la tecnología, con muchas ganas de seguir aprendi
 <p align="center">
   <a href="https://twitter.com/alex_3090"><img src="https://www.flaticon.es/svg/static/icons/svg/733/733579.svg" width="35px"></a>
   <a href="https://www.instagram.com/alex_3090/"><img src="https://www.flaticon.es/svg/static/icons/svg/733/733558.svg" width="35px"></a>
+  <a href="https://www.linkedin.com/in/alejandro-buitrago-l%C3%B3pez-80950b154/"><img src="https://orioniconlibrary.com/icon/linkedin-6212" width="35px"></a>
 </p>
