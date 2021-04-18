@@ -12,5 +12,5 @@ Me considero un apasionado de la tecnología, con muchas ganas de seguir aprendi
 <p align="center">
   <a href="https://twitter.com/alex_3090"><img src="https://www.flaticon.es/svg/static/icons/svg/733/733579.svg" width="35px"></a>
   <a href="https://www.instagram.com/alex_3090/"><img src="https://www.flaticon.es/svg/static/icons/svg/733/733558.svg" width="35px"></a>
-  <a href="https://www.linkedin.com/in/alejandro-buitrago-l%C3%B3pez-80950b154/"><img src="https://orioniconlibrary.com/icon/linkedin-6212" width="35px"></a>
+  <a href="https://www.linkedin.com/in/alejandro-buitrago-l%C3%B3pez-80950b154/"><img src="https://www.flaticon.es/svg/vstatic/svg/174/174857.svg?token=exp=1618761280~hmac=ebf52b2fac0af38a99a7176a7d5fab68" width="35px"></a>
 </p>
