@@ -1,7 +1,7 @@
-<h1 align="center">Alejandro Buitrago</h1>
+<h1 align="center">Alejandro Buitrago López</h1>
 
 # 💫 About Me:
-¡Hola! Soy Alejandro Buitrago.<br><br>📚 Recientemente he completado mi grado en Ingeniería Informática en la Universidad de Murcia y actualmente me encuentro cursando un máster en Análisis de Datos Masivos: Big Data. Me apasiona la tecnología y me encanta seguir aprendiendo y trabajando en proyectos innovadores.
+**Alejandro Buitrago López** is working towards a Ph.D. in Computer Science at the University of Murcia, Spain. He obtained a B.Sc. Degree with a focus on software engineering and a M.Sc. in Big Data, and his research interests include data science, disinformation, and cybersecurity.
 
 
 ## 🌐 Socials:
